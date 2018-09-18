@@ -60,3 +60,19 @@ header,section,footer,aside,article,nav
 {
 margin:1%;
 }
+
+#TituloNormal {
+	background-color: yellow;
+	color: black;
+	size: 30px;
+	margin:20px;
+	padding:30px;
+	border:2px;
+}
+#TextoNormal {
+	color: black;
+	size: 25px;
+	margin:20px;
+	padding:10px;
+	border:2px;
+}
