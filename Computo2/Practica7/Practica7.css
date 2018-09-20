@@ -64,14 +64,21 @@ margin:1%;
 #TituloNormal {
 	background-color: yellow;
 	color: black;
-	size: 30px;
+	font-size: 25px;
 	margin:20px;
 	padding:30px;
 	border:2px;
 }
 #TextoNormal {
 	color: black;
-	size: 25px;
+	font-size: 15px;
+	margin:20px;
+	padding:10px;
+	border:2px;
+}
+b {
+	color: black;
+	font-size: 15px;
 	margin:20px;
 	padding:10px;
 	border:2px;
