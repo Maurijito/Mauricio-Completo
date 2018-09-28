@@ -1,6 +1,6 @@
 header{
 position:relative;
-background-color:tomato;
+background-color:#0B476D;
 color:#FFF;
 width:98%;
 height:13%;
@@ -9,20 +9,20 @@ margin: 0px auto;
 section{
 position:relative;
 float:left;
-background-color:#215A93;
+background-color:#A7DDA7;
 width:78%;
 height:58%;
 color:#FFF;
 }
 article{
-background-color: #2F80D2;
+background-color:#CEF19E;
 width:98%;
 height:58%;
 color:#FFF;
 }
 aside{
 position:relative;
-background-color:#1E5286;
+background-color:#CEF19E;
 width:18%;
 height:55%;
 color:#FFF;
@@ -30,14 +30,14 @@ float:left;
 }
 footer{
 position:relative;
-background-color:#102B46;
+background-color:#CEF19E;
 width:98%;
 height:5%;
 color:#FFF;
 clear:both;
+text-align: right;
 }
-header,section,footer,aside,article,nav
-{
+header,section,footer,aside,article,nav{
 margin:1%;
 }
 .row > div{
@@ -45,12 +45,20 @@ margin:1%;
 		background: #ddd;
 		border: 1px solid #fff;
 		margin: 6px;
+		background-color:#A7DDA7;	
 	}
 .row{
 	margin: 40px auto;
+}	
 }
-.div > ul > li > a{
-	width:20%;
-	height:20%;
-	
+img{
+	width:20px;
+	height:20px;
 }
+
+
+
+
+
+
+
