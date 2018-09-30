@@ -3,6 +3,6 @@ Contexto y segemento de clientes orientado: Juvenil, regalos, accesorios varios.
 Nombre del sitio: Aleatorio
 Nombre de dominio: AleatorioJito.com
 Paleta de colores:https://color.adobe.com/es/Copy-of-Core-color-theme-11281829/?showPublished=true
-Tipografia:https://fonts.google.com/specimen/Kosugi+Maru
+Tipografia:https://fonts.google.com/specimen/Acme
 Boceto de pagina de inicio: Anexo al archivo.
 
