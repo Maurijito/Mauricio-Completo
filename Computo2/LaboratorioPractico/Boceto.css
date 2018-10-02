@@ -15,6 +15,7 @@ color: #ED553B;
 width:98%;
 height:13%;
 margin: 0px auto;
+
 }
 header> #subtitulo{
 	color: #112F41;
@@ -29,14 +30,13 @@ height:58%;
 color:#ED553B;
 }
 article{
-background-color:#4FB99F; /*Color del centro de los productos*/
-width:98%;
+background-color:#4FB99F; 
 height:58%;
 color:#112F41;
 }
 aside{
 position:relative;
-background-color:#4FB99F;/*Color de anuncio*/
+background-color:#4FB99F;
 width:18%;
 height:55%;
 color:#ED553B;
@@ -44,7 +44,7 @@ float:left;
 }
 footer{
 position:relative;
-background-color:#ED553B;/*Color del pie de pagina*/
+background-color:#ED553B;
 width:98%;
 height:5%;
 color:#112F41;
@@ -53,27 +53,70 @@ text-align: right;
 }
 footer> #otro{
 	text-align: left;
-	
-	
 }
 
 
-.row > div{
+.productos > div{
 		padding: 10px;
 		background: #ddd;
 		border: 1px solid #fff;
 		margin: 6px;
-		background-color:#F2B134;/*Color del articulo*/	
+		background-color:#F2B134;
 	}
 .row{
 	margin: 40px auto;
-}	
-}
-img{
-	width:20px;
-	height:20px;
 }
 
+.menu{
+	margin: 10px;
+	background-color:#ED553B;
+	
+}	
+ul, ol {
+list-style:none;
+z-index: 1000;
+}
+.nav > li {
+float:left;
+z-index: 1000;
+}
+	
+.nav li a {
+background-color:#ED553B;
+color:#fff;
+text-decoration:none;
+padding:10px 12px;
+display:block; 
+z-index: 1000;
+}
+
+.nav li a:hover {
+background-color:orange;
+}
+	
+.nav li ul {
+display:none;
+position:absolute;
+min-width:140px; 
+}
+
+.nav li:hover > ul {
+display:block;
+
+}
+
+.nav li ul li {
+position:relative;
+}
+
+.nav li ul li ul {
+right:-100px;
+top:0px;
+}
+
+.menu{
+	
+}
 
 
 
