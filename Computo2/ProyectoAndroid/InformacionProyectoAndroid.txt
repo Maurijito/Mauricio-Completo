@@ -1,0 +1,2 @@
+El programa debera tomarla informacion personal de los aspirantes al trabajo y evaluar a que empresa o giro
+son mas compatibles y asi podran aplicar a esa oportunidad.
